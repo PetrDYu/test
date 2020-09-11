@@ -1,2 +1,6 @@
 # test
- Simple 7-segment and button project
+ Simple 7-segment and button project  
+Проект для кита **Terasic DE1-SoC** с чипом **Altera Cyclone V**.  
+Собран в среде **Quartus Prime 16.0**.  
+В проекте: по кнопке KEY[0] значение на индикаторах увеличивается на определённую величину.
+По кнопке KEY[1] увеличивается на 1 прибавляемое (по кнопке KEY[0]) значение. Изначально стоит 0.
